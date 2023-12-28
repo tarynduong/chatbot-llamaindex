@@ -1,0 +1,66 @@
+Lorenzo Ostano first encountered machine learning and data science as a business analyst shortly after graduating from college. He later took the Deep
+Learning Specialization, and soon after landed work as an engineer. After working several years for a variety of consulting companies, he recently took a
+job as a software engineer. He spoke to us about why he believes traditional computing skills are important to deploying enterprise machine learning
+applications.
+  
+You recently started a new job as a software engineer. Why did you decide to pursue a non-machine learning position?
+LO: Yes, I am now a software developer for an internet service provider based in Sweden called VX Fiber. At the moment there is no machine learning at this
+company, but I’m sure there will be in the future because, as an internet service provider, we have loads of data. I’m still learning a lot, but I’m pretty
+sure there are opportunities for automation. My new role has no machine learning in it because I want to get experience developing enterprise applications
+from the back end. For the work I want to do, which is machine learning, I think the biggest foundation is software engineering. I’ve seen a lot of data
+science experiments that remain in Jupyter Notebooks. Without software engineering, you wind up with pet projects that don’t ever make it to the market.
+
+How did you first get interested in AI?
+LO: The first time I heard about machine learning was 2017. I was just getting into data analysis and saw that what you could do with machine learning was
+revolutionary. And it seemed complicated, but it also seemed like something I could do.
+
+What was your career like before you got into machine learning?
+LO: I graduated in 2012 with an undergraduate degree in industrial engineering. Then I moved to Australia where I did a lot of odd jobs. My first entry into
+basic programming was as a business analyst. That’s also where I found out about data science and machine learning.
+
+How difficult was it for you to get your first AI job?
+LO: My first data science job was at a French consulting company called Alten, starting in late 2019 after completing the Deep Learning Specialization.
+The recruiting process wasn’t that hard. I think the director was impressed by my passion for machine learning. He saw that I wasn’t skilled in software
+engineering but was able to talk in depth about topics like natural language processing, computer vision, and time-series forecasting. 
+
+You have both bachelor’s and master’s degrees in industrial engineering. Are there skills from your college experience that are transferable to machine
+learning?
+LO: Yes, definitely. Advanced mathematics like calculus are the foundation of any engineering degree, and those also form the foundation of data science and
+machine learning. 
+
+Prior to your current job, you worked as a machine learning engineer at OmniNext. Can you tell me about your work there?
+LO: OmniNext is like a startup container, it has many different projects. When I joined, I was put on a team with two other machine learning engineers.
+We worked on a variety of things, but I spent about 80 percent of my time developing a product using time-series forecasting for renewable energy. The goal
+was to make the electricity market more efficient by knowing in advance how much energy would be coming from renewable sources. We started with just one year
+of historical data from an Italian energy company. And of course, one year of data is nothing for this type of challenge. Eventually we found more data from
+a Spanish website that collected data from a government-run wind farm, which led to even more data from a different Italian company. This gave us about four
+or five years of wind data, which was enough to develop a really robust system for predicting how much electricity would come from the wind. My former
+colleagues are now trying to sell this product.
+
+How do you characterize the demand for machine learning engineers in Europe?
+LO: Demand is pretty big, but I think most of that is driven by the fact that machine learning has become a buzzword for innovative. In my country, at least,
+many companies do not have the necessary engineering culture to develop machine learning products that are ready to compete on the market. When I was
+interviewing for work, I spoke to a lot of consulting companies that were pitching machine learning as the go-to solution. A lot of these companies want to
+say they do machine learning, but at the end of the day, they probably will not be successful. Some companies are doing great things with the technology.
+These are businesses with a lot of data, like banks and financial institutions. I also see a lot of consulting companies looking to hire machine learning
+engineers or data scientists. I think the demand for machine learning from manufacturing is currently underdeveloped, and there is a lot of opportunity to
+grow in that space.
+
+Do you have any tips, lessons, or advice to pass along to other people who are starting to look for their first machine learning job?
+LO: One tip is to build a portfolio of projects in a wide range of topics. When doing projects, you are going to learn more if you can find problems that
+you really want to solve. Then you want to post about your work. The simplest way is to post your work on Github, but even better would be to write a blog
+about your experience. 
+
+If you want to get into bigger companies, you need to study up on various computer science topics. I tried to interview as a machine learning engineer with
+several consulting companies and a few high-growth international start-ups before I landed my current job. With the consulting firms, the technical questions
+were pretty hard. I felt like I was getting interviewed for multiple positions at once, from full-stack developer to data engineer. These interviews also
+included a good dose of weird brain teasers and questions about data structures and different algorithmsWhat were you least prepared for when it came to
+doing machine learning in the real world?
+LO: Definitely the software engineering aspect of deploying machine learning products. Another thing I recently learned was the importance of domain
+knowledge. For example, if you’re doing work on renewable energy, you should connect with a stakeholder who really knows the business so you can understand
+their requirements and priorities. At the end of the day you are trying to solve business problems, not just computer science problems.
+
+How do you stay up-to-date on the latest machine learning research?
+LO: I read your newsletter, The Batch, because it has all of the most relevant stuff in a condensed format. It makes it really easy to skim and keep up with
+the general trends in AI. For deeper dives, I follow several YouTube creators, like Sentdex,Machine Learning Mastery, andPyImage Search — which is great for
+its focus on computer vision. I also follow many passionate researchers and engineers on Twitter.
